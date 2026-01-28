@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.csv
+*.h5
+*.hdf5
+*.json
+*.txt
+data/
+models/
+.vscode/
